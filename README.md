@@ -1,4 +1,4 @@
-#           Trevor-John-Hansen-164L03-01
+# Trevor-John-Hansen-164L03-01
 
 # Itas 164 Lab 3
 
